@@ -1,12 +1,10 @@
-### Hello there 👋
-
-![image](https://user-images.githubusercontent.com/69991183/230745234-a35979a8-9984-43ed-b111-427b499e5c65.png)   
+### Hello there I am Marcela Costa 👋
 
 Linkedin: https://www.linkedin.com/in/marcelacostaaraujo/   
 
+😎: ![image](https://user-images.githubusercontent.com/69991183/230748727-88093e95-fc86-4399-a387-12391453ee8e.png)
 
-Interest in: 
-![image](https://user-images.githubusercontent.com/69991183/230748483-eccaf9ed-15a4-4e04-8e77-2413de27055e.png)
+
 
 
 
