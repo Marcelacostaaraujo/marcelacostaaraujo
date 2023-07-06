@@ -1,7 +1,7 @@
 ### Olá, Eu sou Marcela Costa 👋
 
 https://www.linkedin.com/in/marcelacostaaraujo/   
-
+<details> 
 Temas de interesse:
 
 AWS![image](https://user-images.githubusercontent.com/69991183/230749211-cecba322-365b-4066-b360-c94d6d6cec45.png)
@@ -15,7 +15,7 @@ Python ![image](https://user-images.githubusercontent.com/69991183/230811352-f59
 Trello![image](https://user-images.githubusercontent.com/69991183/230749402-7e0e4a6f-adaa-472c-b793-24db68a1b4fb.png)
 Ubuntu![image](https://user-images.githubusercontent.com/69991183/230749423-6be0faf3-77be-453e-87b4-fa434142cfeb.png)
 
-
+<\details>
 
           
           
