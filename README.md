@@ -3,7 +3,7 @@
 https://www.linkedin.com/in/marcelacostaaraujo/   
 <details> 
 Temas de interesse:
-
+<\details>
 AWS![image](https://user-images.githubusercontent.com/69991183/230749211-cecba322-365b-4066-b360-c94d6d6cec45.png)
 Canva![image](https://user-images.githubusercontent.com/69991183/230749226-d0403dd9-9ac2-47e8-a761-16cab0d3bfa0.png)
 Github![image](https://user-images.githubusercontent.com/69991183/230749241-4f20c5c2-15a3-4ce7-bb74-42e43a7694d3.png)
@@ -15,7 +15,7 @@ Python ![image](https://user-images.githubusercontent.com/69991183/230811352-f59
 Trello![image](https://user-images.githubusercontent.com/69991183/230749402-7e0e4a6f-adaa-472c-b793-24db68a1b4fb.png)
 Ubuntu![image](https://user-images.githubusercontent.com/69991183/230749423-6be0faf3-77be-453e-87b4-fa434142cfeb.png)
 
-
+<\details>
           
           
           
