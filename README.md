@@ -15,7 +15,6 @@ Python ![image](https://user-images.githubusercontent.com/69991183/230811352-f59
 Trello![image](https://user-images.githubusercontent.com/69991183/230749402-7e0e4a6f-adaa-472c-b793-24db68a1b4fb.png)
 Ubuntu![image](https://user-images.githubusercontent.com/69991183/230749423-6be0faf3-77be-453e-87b4-fa434142cfeb.png)
 
-<\details>
 
           
           
